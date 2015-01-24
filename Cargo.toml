@@ -11,6 +11,3 @@ repository = "https://github.com/daboross/fern-macros-rs"
 readme = "README.md"
 keywords = ["log", "logging", "logger", "fern"]
 license = "MIT"
-
-[dependencies]
-fern = "0.1.8"
