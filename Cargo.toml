@@ -13,4 +13,4 @@ keywords = ["log", "logging", "logger", "fern"]
 license = "MIT"
 
 [dependencies]
-fern = "*"
+fern = "0.1.7"
